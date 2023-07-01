@@ -1,0 +1,14 @@
+{
+    "empData" : [
+        {
+            "id" : 1 ,
+            "name" : "hukumh" ,
+            "email" : "hcgupta@cstech.in",
+            "phnum":  "954010044",
+            "designation" : "HR" ,
+            "gender" : "",
+            "course" : "",
+            "img" : ""
+        }
+    ]
+}
